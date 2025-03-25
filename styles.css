@@ -1,0 +1,62 @@
+.caixa {
+    width: 150px;  /* Largura */
+    height: 150px; /* Altura */
+    display: inline-block; /* Para alinhar na mesma linha */
+    margin: 10px; /* Espaçamento entre as caixas */
+    text-align: center;
+    line-height: 150px; /* Alinha o texto no centro verticalmente */
+    font-weight: bold;
+    color: white;
+    border-radius: 0px; /* Bordas arredondadas */
+}
+
+
+.vermelha { background-color: red; }
+        .azul { background-color: blue; }
+        .verde { background-color: green; }
+        .amarela { background-color: yellow; color: black; }
+
+
+
+        .azul {
+            position: absolute;
+            top: 210px; /* Distância do topo */
+            left: 10px; /* Distância da esquerda */
+        }
+
+        .vermelha {
+            position: absolute;
+            top: 50px; /* Distância do topo */
+            left: 165px; /* Distância da esquerda */
+        }
+
+        .amarela {
+            position: absolute;
+            top: 210px; /* Distância do topo */
+            left: 165px; /* Distância da esquerda */
+        }
+
+        .verde {
+            position: absolute;
+            top: 30x; /* Distância do topo */
+            left: 10px; /* Distância da esquerda */
+        }
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
