@@ -14,7 +14,7 @@
 .vermelha { background-color: red; }
         .azul { background-color: blue; }
         .verde { background-color: green; }
-        .amarela { background-color: yellow; color: black; }
+        .amarela { background-color: yellow; }
 
 
 
@@ -26,20 +26,20 @@
 
         .vermelha {
             position: absolute;
-            top: 50px; /* Distância do topo */
-            left: 165px; /* Distância da esquerda */
+            top: 50px; 
+            left: 165px;
         }
 
         .amarela {
             position: absolute;
-            top: 210px; /* Distância do topo */
-            left: 165px; /* Distância da esquerda */
+            top: 210px; 
+            left: 165px;
         }
 
         .verde {
             position: absolute;
-            top: 30x; /* Distância do topo */
-            left: 10px; /* Distância da esquerda */
+            top: 30x; 
+            left: 10px;
         }
 
         
